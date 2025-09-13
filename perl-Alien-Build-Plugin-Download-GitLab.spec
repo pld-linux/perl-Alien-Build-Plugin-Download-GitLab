@@ -12,9 +12,9 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Alien/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	https://www.cpan.org/modules/by-module/Alien/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	ad1d815262ad7dd98b0a9b35ba2f05ef
-URL:		https://metacpan.org/release/Alien-Build-Plugin-Download-GitLab
+URL:		https://metacpan.org/dist/Alien-Build-Plugin-Download-GitLab
 BuildRequires:	perl-devel >= 1:5.8.4
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	rpmbuild(macros) >= 1.745
